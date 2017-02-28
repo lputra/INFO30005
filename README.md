@@ -7,4 +7,4 @@ Group Members:
 - Leonardus Elbert Putra    755379
 - Priscilla Natalia Widjaja 726512
 - Rio Kurnia Susanto        700360
-- Christopher Hadi Oetomo
+- Christopher Hadi Oetomo   755374
