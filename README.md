@@ -6,5 +6,5 @@ Group Name:#####
 Group Members:
 - Leonardus Elbert Putra    755379
 - Priscilla Natalia Widjaja 726512
-- Brian Bramasta
+- Brian Bramasta            755378
 - Christopher Hadi Oetomo   755374
